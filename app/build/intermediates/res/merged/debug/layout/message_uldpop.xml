@@ -1,0 +1,140 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/include_title" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            style="@style/PolaMessage_TEXT"
+            android:text="地块编号" />
+
+        <EditText
+            android:layout_width="200dp"
+            android:layout_height="36dip"
+            android:layout_margin="12dip"
+            android:layout_weight="2"
+            android:background="@drawable/bg_edittext"
+            android:hint="请输入..."
+            android:padding="5dip"
+            android:singleLine="true"
+            android:textColorHint="#AAAAAA"
+            android:textSize="15dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            style="@style/PolaMessage_TEXT"
+            android:text="地块类型" />
+
+        <Spinner
+            android:id="@+id/spinner2"
+            style="@style/PolaMessage_EditText"
+            android:entries="@array/plot_type" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            style="@style/PolaMessage_TEXT"
+            android:text="作物类型" />
+
+        <Spinner
+            android:id="@+id/zuowu"
+            style="@style/PolaMessage_EditText"
+            android:entries="@array/zuowu_type" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            style="@style/PolaMessage_TEXT"
+            android:text="长势情况" />
+
+        <Spinner
+            android:id="@+id/site"
+            style="@style/PolaMessage_EditText"
+            android:entries="@array/site_condition" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            style="@style/PolaMessage_TEXT"
+            android:text="墒情情况" />
+
+        <Spinner
+            android:id="@+id/moisture"
+            style="@style/PolaMessage_EditText"
+            android:entries="@array/moisture_condition" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            style="@style/PolaMessage_TEXT"
+            android:text="病虫害情况" />
+
+        <EditText
+            style="@style/Message_EditText"
+            android:hint="请输入..." />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="center_horizontal"
+            android:text="其他描述" />
+
+        <EditText
+            style="@style/Message_EditText"
+            android:layout_height="100dp"
+            android:hint="请输入..." />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/bt_messageuld"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/login_button_selector"
+        android:padding="1dp"
+        android:text="上报"
+        android:textColor="@color/white"
+        android:textSize="21sp" />
+
+</LinearLayout>

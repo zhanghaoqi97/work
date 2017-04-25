@@ -1,0 +1,163 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <include layout="@layout/include_title" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                style="@style/PolaMessage_TEXT"
+                android:text="种植户姓名" />
+
+            <EditText
+                android:id="@+id/et_pola_name"
+                style="@style/Message_EditText"
+                android:hint="请输入种植户姓名" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                style="@style/PolaMessage_TEXT"
+                android:text="身份证号" />
+
+            <EditText
+                android:id="@+id/et_pola_number"
+                style="@style/Message_EditText"
+                android:hint="请输入身份证号" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                style="@style/PolaMessage_TEXT"
+                android:text="联系方式" />
+
+            <EditText
+                android:id="@+id/et_pola_phone"
+                style="@style/Message_EditText"
+                android:hint="请输入联系方式" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_margin="5dp"
+            android:layout_marginTop="15dp"
+            android:background="#D2D2D5" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <com.thsw.work.custom.CamGridViewCoustom
+                android:id="@+id/noScrollgridview"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_margin="5dp"
+                android:horizontalSpacing="3dp"
+                android:numColumns="4"
+                android:scrollbars="none"
+                android:verticalSpacing="5dp" >
+            </com.thsw.work.custom.CamGridViewCoustom>
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_margin="5dp"
+            android:background="#D2D2D5" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                style="@style/PolaMessage_TEXT"
+                android:text="种植面积" />
+
+            <EditText
+                android:id="@+id/et_pola_area"
+                style="@style/Message_EditText"
+                android:focusable="false"
+                android:hint="请勾选种植面积" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="位置及范围信息"
+            android:textColor="#0099FF" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:layout_marginLeft="10dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:orientation="horizontal" >
+
+                <RadioButton
+                    android:id="@+id/rb_pola_imgsketch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="图上勾画" />
+
+                <RadioButton
+                    android:id="@+id/rb_pola_gpssketch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="GPS打点" />
+            </RadioGroup>
+
+            <ImageView
+                android:id="@+id/iv_startdot"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1"
+                android:src="@drawable/u40" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/bt_confirm"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/login_button_selector"
+            android:padding="1dp"
+            android:text="上报"
+            android:textColor="@color/white"
+            android:textSize="21sp" />
+    </LinearLayout>
+
+</ScrollView>

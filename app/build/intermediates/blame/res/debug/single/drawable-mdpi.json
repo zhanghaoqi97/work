@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\pop.png",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\drawable-mdpi\\pop.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_gcoding.png",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\drawable-mdpi\\icon_gcoding.png"
+    }
+]

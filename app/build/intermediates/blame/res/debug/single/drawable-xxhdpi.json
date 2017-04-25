@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading.png",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\drawable-xxhdpi\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\text_del.png",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\drawable-xxhdpi\\text_del.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\plugin_camera_choosed.png",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\drawable-xxhdpi\\plugin_camera_choosed.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\pop.png",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\drawable-xxhdpi\\pop.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\touxiang.png",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\drawable-xxhdpi\\touxiang.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_gcoding.png",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\drawable-xxhdpi\\icon_gcoding.png"
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_folder.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\plugin_camera_select_folder.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pola.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\activity_pola.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_view.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\spinner_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_album.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\plugin_camera_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_show_all_photo.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\plugin_camera_show_all_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_standard_fragment.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\detail_standard_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message_uld.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\activity_message_uld.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinners_item.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\spinners_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selectimg.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\activity_selectimg.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imagdot.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\activity_imagdot.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_dialog.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_title.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\include_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_select_imageview.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\plugin_camera_select_imageview.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_fragment.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\login_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_list_item.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\user_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_message.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_pw_menu.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\lv_pw_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_plant_fragment.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\detail_plant_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_details.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gpsdot.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\activity_gpsdot.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide_two.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\guide_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_drought_fragment.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\detail_drought_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_fertilizer_fragment.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\detail_fertilizer_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start_lct.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\activity_start_lct.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\activity_personal.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_published_grida.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\item_published_grida.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wellview_pop.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\wellview_pop.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_statistics.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\activity_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_item_pw_menu.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\lv_item_pw_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_no_image_file.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\plugin_camera_no_image_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_fragment.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\register_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_fragment.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\activity_user_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\details_message_item.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\details_message_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_popupwindows.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\item_popupwindows.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_image_file.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\plugin_camera_image_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_uldpop.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\message_uldpop.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide_one.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\guide_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\guide_three.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\guide_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\plugin_camera_gallery.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\plugin_camera_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail_site_fragment.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\detail_site_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\special.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\special.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\layout\\staticstics_gv_item.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\layout\\staticstics_gv_item.xml"
+    }
+]

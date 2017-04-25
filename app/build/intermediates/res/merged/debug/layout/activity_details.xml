@@ -1,0 +1,165 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <com.esri.android.map.MapView
+                android:id="@+id/map"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+            </com.esri.android.map.MapView>
+
+            <LinearLayout
+                android:id="@+id/linearLayout3"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_margin="10dp"
+                android:background="#ffffff"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/iv_recognize"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:src="@drawable/voice" />
+
+                <EditText
+                    android:id="@+id/searchkey"
+                    android:layout_width="200dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="2"
+                    android:hint="请输入正确的搜索行政区" />
+
+                <ImageView
+                    android:id="@+id/search"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:src="@drawable/menu_search" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="35dp"
+                android:layout_height="150dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:id="@+id/details_transition"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/transition" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/iv_details_zs"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/details_zs"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/iv_details_sq"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/details_sq"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/bt_locationorigin"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignLeft="@+id/linearLayout3"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="22dp"
+                android:layout_marginLeft="15dp"
+                android:src="@drawable/location1" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_details_regain"
+        android:layout_width="fill_parent"
+        android:layout_height="250dp"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <ImageView
+            android:id="@+id/iv_details_regain"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pulldown" />
+
+        <ScrollView
+            android:id="@+id/sv_details"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#CDCDCD" >
+
+            <FrameLayout
+                android:id="@+id/fragment"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+            </FrameLayout>
+        </ScrollView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible" >
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/tab_home"
+                style="@style/Tab_Icon"
+                android:drawableTop="@drawable/tab_claim"
+                android:text="地块认领" />
+
+            <RadioButton
+                android:id="@+id/tab_mine"
+                style="@style/Tab_Icon"
+                android:drawableTop="@drawable/tab_appear"
+                android:text="信息上报" />
+
+            <RadioButton
+                android:id="@+id/statistics_city"
+                style="@style/Tab_Icon"
+                android:drawableTop="@drawable/analyze"
+                android:text="统计分析" />
+
+            <RadioButton
+                android:id="@+id/tab_shop"
+                style="@style/Tab_Icon"
+                android:drawableTop="@drawable/tab_home"
+                android:text="个人中心" />
+        </RadioGroup>
+    </LinearLayout>
+
+</LinearLayout>

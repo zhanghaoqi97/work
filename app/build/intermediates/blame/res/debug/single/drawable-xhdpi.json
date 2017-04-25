@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_gcoding.png",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\drawable-xhdpi\\icon_gcoding.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\quickaction_arrow_down.png",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\drawable-xhdpi\\quickaction_arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pop.png",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\drawable-xhdpi\\pop.png"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\touxiang.png",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\drawable-xhdpi\\touxiang.png"
+    }
+]

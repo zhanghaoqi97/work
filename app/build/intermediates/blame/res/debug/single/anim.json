@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_translate_in.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\anim\\activity_translate_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\anim\\loading_animation.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\anim\\loading_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_translate_out.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\anim\\activity_translate_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    }
+]

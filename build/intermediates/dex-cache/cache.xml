@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\Desktop\work\app\libs\Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="994d12017bc2c9ba570180cde5500689d134e6e6">
+        <dex dex="C:\Users\pc\Desktop\work\app\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_80d3735da733c36d79c1ffc295a62111475aea2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\Desktop\work\app\build\intermediates\exploded-aar\com.jiechic.library\xUtils\2.6.14\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe75606aa9485cd20177894c204291a79a0cc7ab">
+        <dex dex="C:\Users\pc\Desktop\work\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jiechic.library-xUtils-2.6.14_6c694615ec9666408dea1408cf066f4e4f8f4b87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\Desktop\work\app\libs\arcgis-android-api.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0bb64910fdd2d390b1edb691b1afd2ba5ccd81c">
+        <dex dex="C:\Users\pc\Desktop\work\app\build\intermediates\transforms\dex\debug\folders\1000\2\arcgis-android-api_380d75794ad74622bc17fcc74ed9c038ca39d399\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\Desktop\work\app\libs\arcgis-android-app-toolkit.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5c0557f6e89c284472298df599e34480e0aa946">
+        <dex dex="C:\Users\pc\Desktop\work\app\build\intermediates\transforms\dex\debug\folders\1000\2\arcgis-android-app-toolkit_5823e972e9550f4ecc3db742bac18dbc52f3a087\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\Desktop\work\app\libs\ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6e6d14301616c866b7eff210ece6579299417ec">
+        <dex dex="C:\Users\pc\Desktop\work\app\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android-assembly-2.5.8-jar-with-dependencies_50270523590cf2bb5d3f7ec7dcef1046ea4fa1d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\Desktop\work\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f22244a8b6c8c7e4d00eb233e35157a1d307d35e">
+        <dex dex="C:\Users\pc\Desktop\work\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1474fa63f9fe4460ff63ca4fcba469920328bf0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\Desktop\work\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac9fc2a4f17266e3b82912fb15d46cdffe1bfd08">
+        <dex dex="C:\Users\pc\Desktop\work\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ed020ee961fd712c0aa3a4e753e778f5b4ef061a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\Desktop\work\app\libs\jackson-mapper-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbb48e87fa5e9107c17aaa0616f724d785a4d71">
+        <dex dex="C:\Users\pc\Desktop\work\app\build\intermediates\transforms\dex\debug\folders\1000\2\jackson-mapper-1.9.5_61d6c19d05d3e87f136c8db11a6ca70029fcd061\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\Desktop\work\app\libs\jackson-core-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75ac72d19377a95225217cb4fdfa1290f3c81145">
+        <dex dex="C:\Users\pc\Desktop\work\app\build\intermediates\transforms\dex\debug\folders\1000\2\jackson-core-1.9.5_facccd99f7224ab788f6bdc411ed9b99e9c04b3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\Desktop\work\app\libs\jcore-android_v1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="106b4280f8f932065d75075b65bc7754411abc73">
+        <dex dex="C:\Users\pc\Desktop\work\app\build\intermediates\transforms\dex\debug\folders\1000\2\jcore-android_v1.0.0_ac669cd93d3e33b649e1876663571da7ca0b1ed8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\pc\Desktop\work\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_2d8cd3dc914244c1ca9c593eef8d6add8fff8201\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\Desktop\work\app\libs\jcifs-1.3.17.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60e3805e7bcfe96bf1f1907b821d251cc9d789ec">
+        <dex dex="C:\Users\pc\Desktop\work\app\build\intermediates\transforms\dex\debug\folders\1000\2\jcifs-1.3.17_485a7e5e5d02e632a202b2f9b1cb6f4225d4e396\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\pc\Desktop\work\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_3612ac8db6f47a5180e27fc746bf12bed3dcf705\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\Desktop\work\app\libs\jpush-android_v3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80269b2947385e1e32eaab580a47d96a1e5a315c">
+        <dex dex="C:\Users\pc\Desktop\work\app\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-android_v3.0.0_44508097ba2679fb074879bd2202c8ee9bb3d7a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\Desktop\work\app\libs\Sunflower.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e6c6da42570069cac8ed88e9ff7785244b89c77">
+        <dex dex="C:\Users\pc\Desktop\work\app\build\intermediates\transforms\dex\debug\folders\1000\2\Sunflower_3c22ef9c934c6acec0dd064fc90761e2fa7da324\classes.dex" />
+    </item>
+
+</items>

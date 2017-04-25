@@ -1,0 +1,475 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:2:1-312:12
+	package
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jiechic.library:xUtils:2.6.14] C:\Users\pc\Desktop\work\app\build\intermediates\exploded-aar\com.jiechic.library\xUtils\2.6.14\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:19:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:22:22-77
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:27:5-85
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:27:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:28:5-68
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:28:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:29:5-76
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:29:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:31:5-68
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:31:22-65
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:48:5-49:23
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:48:22-81
+uses-feature#android.hardware.camera
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:52:5-60
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:52:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:53:5-70
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:53:19-67
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:55:5-65
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:55:22-62
+uses-feature#0x00020000
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:66:5-68:35
+	android:glEsVersion
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:67:9-41
+	android:required
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:68:9-32
+permission#com.thsw.work.permission.JPUSH_MESSAGE
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:72:5-74:47
+	android:protectionLevel
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:74:9-44
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:73:9-62
+uses-permission#com.thsw.work.permission.JPUSH_MESSAGE
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:77:5-78
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:77:22-75
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:78:5-79
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:78:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:85:5-66
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:85:22-63
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:91:5-78
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:91:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:93:5-81
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:93:22-78
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:96:5-89
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:96:22-86
+application
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:100:5-310:19
+MERGED from [com.jiechic.library:xUtils:2.6.14] C:\Users\pc\Desktop\work\app\build\intermediates\exploded-aar\com.jiechic.library\xUtils\2.6.14\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:104:9-41
+	android:allowBackup
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:102:9-35
+	android:icon
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:103:9-45
+	android:theme
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:105:9-40
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:101:9-50
+activity#com.thsw.work.GuideActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:106:9-107:20
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:106:19-48
+activity#com.thsw.work.StartLctActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:108:9-117:20
+	android:screenOrientation
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:111:13-49
+	android:configChanges
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:110:13-133
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:109:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:112:13-116:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:113:17-69
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:113:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:115:17-77
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:115:27-74
+activity#com.iflytek.speech.setting.TtsSettings
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:118:9-119:20
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:118:19-72
+activity#com.thsw.work.voice.IatSettings
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:120:9-121:20
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:120:19-52
+activity#com.iflytek.speech.setting.UnderstanderSettings
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:122:9-123:20
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:122:19-81
+meta-data#IFLYTEK_APPKEY
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:125:9-127:52
+	android:value
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:127:13-49
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:126:13-42
+meta-data#IFLYTEK_CHANNEL
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:128:9-130:44
+	android:value
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:130:13-41
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:129:13-43
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:134:9-138:20
+	android:exported
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:136:13-37
+	android:theme
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:137:13-49
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:135:13-62
+activity#cn.jpush.android.ui.PushActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:141:9-152:20
+	android:exported
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:144:13-37
+	android:configChanges
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:143:13-63
+	android:theme
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:145:13-60
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:142:13-60
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.thsw.work
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:146:13-151:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:147:17-75
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:147:25-72
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:149:17-76
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:149:27-73
+category#com.thsw.work
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:150:17-58
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:150:27-55
+service#cn.jpush.android.service.DownloadService
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:154:9-158:19
+	android:enabled
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:156:13-35
+	android:exported
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:157:13-37
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:155:13-68
+service#cn.jpush.android.service.PushService
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:162:9-171:19
+	android:process
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:164:13-36
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:163:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:165:13-170:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:166:17-75
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:166:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:167:17-73
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:167:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:168:17-78
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:168:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:169:17-76
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:169:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:175:9-184:19
+	android:enabled
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:177:13-35
+	android:exported
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:178:13-36
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:176:13-66
+intent-filter#cn.jpush.android.intent.DaemonService+com.thsw.work
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:179:13-183:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:180:17-80
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:180:25-77
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:187:9-206:20
+	android:enabled
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:189:13-35
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:188:13-65
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.thsw.work
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:190:13-194:29
+	android:priority
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:190:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:191:17-94
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:191:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:195:13-198:29
+action#android.intent.action.USER_PRESENT
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:196:17-77
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:196:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:197:17-79
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:197:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:200:13-205:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:201:17-78
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:201:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:202:17-80
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:202:25-77
+data
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:204:17-50
+	android:scheme
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:204:23-47
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:209:9-211:40
+	android:exported
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:211:13-37
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:210:13-66
+receiver#com.thsw.work.service.MyReceiver
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:214:9-231:20
+	android:enabled
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:216:13-35
+	android:exported
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:217:13-37
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:215:13-60
+intent-filter#cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+com.thsw.work
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:218:13-230:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:219:17-79
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:219:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:221:17-83
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:221:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:223:17-88
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:223:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:225:17-86
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:225:25-83
+action#cn.jpush.android.intent.CONNECTION
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:227:17-77
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:227:25-74
+meta-data#JPUSH_CHANNEL
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:234:9-236:49
+	android:value
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:236:13-46
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:235:13-41
+meta-data#JPUSH_APPKEY
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:237:9-239:56
+	android:value
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:239:13-53
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:238:13-40
+activity#com.thsw.work.TestActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:242:9-250:20
+	android:exported
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:244:13-37
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:243:13-54
+intent-filter#jpush.testAction+jpush.testCategory
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:245:13-249:29
+action#jpush.testAction
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:246:17-59
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:246:25-56
+category#jpush.testCategory
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:248:17-63
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:248:27-60
+activity#com.thsw.work.intentactivity.PolaActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:251:9-254:20
+	android:label
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:253:13-56
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:252:13-56
+activity#com.thsw.work.intentactivity.MessageUldActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:255:9-258:20
+	android:label
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:257:13-63
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:256:13-62
+activity#com.thsw.work.intentactivity.PersonalActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:259:9-262:20
+	android:label
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:261:13-60
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:260:13-60
+activity#com.thsw.work.intentactivity.ImagedotActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:263:9-266:20
+	android:label
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:265:13-60
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:264:13-60
+activity#com.thsw.work.intentactivity.GpsdotActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:267:9-270:20
+	android:label
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:269:13-58
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:268:13-58
+activity#com.thsw.work.fragment.RegisterFragment
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:271:9-274:20
+	android:label
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:273:13-60
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:272:13-54
+activity#com.thsw.work.intentactivity.DetailsActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:275:9-276:20
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:275:19-65
+activity#com.thsw.work.intentactivity.StatisticsActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:277:9-280:20
+	android:label
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:279:13-62
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:278:13-62
+activity#com.thsw.work.intentactivity.ImagdotActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:281:9-284:20
+	android:label
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:283:13-59
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:282:13-59
+activity#com.thsw.work.intentactivity.MessageActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:285:9-288:20
+	android:label
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:287:13-59
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:286:13-59
+activity#com.thsw.work.ImageGridActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:289:9-292:20
+	android:screenOrientation
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:291:13-49
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:290:13-46
+activity#com.thsw.work.TestPicActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:293:9-296:52
+	android:screenOrientation
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:296:13-49
+	android:configChanges
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:295:13-63
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:294:13-44
+activity#com.thsw.work.PhotoActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:297:9-299:52
+	android:screenOrientation
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:299:13-49
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:298:13-42
+activity#com.thsw.work.AlbumActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:300:9-303:20
+	android:screenOrientation
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:302:13-49
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:301:13-42
+activity#com.thsw.work.ImageFile
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:304:9-305:20
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:304:19-44
+activity#com.thsw.work.ShowAllPhoto
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:306:9-307:20
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:306:19-47
+activity#com.thsw.work.GalleryActivity
+ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:308:9-309:20
+	android:name
+		ADDED from C:\Users\pc\Desktop\work\app\src\main\AndroidManifest.xml:308:19-50

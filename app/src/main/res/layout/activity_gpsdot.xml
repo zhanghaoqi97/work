@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include
+        android:id="@+id/include1"
+        layout="@layout/include_title" />
+
+    <com.esri.android.map.MapView
+        android:id="@+id/map"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/include1"
+        initExtent="-20037507.0672, -30240971.9584, 20037507.0672, 30240971.9584" >
+    </com.esri.android.map.MapView>
+
+    <Button
+        android:id="@+id/bt_confirm"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/login_button_selector"
+        android:padding="1dp"
+        android:text="确定"
+        android:textColor="@color/white"
+        android:textSize="21sp" />
+
+    <ImageView
+        android:id="@+id/iv_clear"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_above="@+id/bt_confirm"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/startgh" />
+
+    <ImageView
+        android:id="@+id/iv_sketch"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_above="@+id/iv_clear"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/huaxian" />
+
+    <ImageView
+        android:id="@+id/iv_dot"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_above="@+id/iv_sketch"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/gou" />
+
+</RelativeLayout>

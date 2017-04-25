@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\imagdot.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\menu\\imagdot.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail_plant.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\menu\\detail_plant.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail_standard.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\menu\\detail_standard.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\statistics.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\menu\\statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\message_uld.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\menu\\message_uld.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gpsdot.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\menu\\gpsdot.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\details.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\menu\\details.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\message.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\menu\\message.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail_site.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\menu\\detail_site.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail_drought.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\menu\\detail_drought.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\personal.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\menu\\personal.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\imagedot.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\menu\\imagedot.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\user.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\menu\\user.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\register.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\menu\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\detail_soil.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\menu\\detail_soil.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pola.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\menu\\pola.xml"
+    },
+    {
+        "merged": "C:\\Users\\pc\\Desktop\\work\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "C:\\Users\\pc\\Desktop\\work\\app\\src\\main\\res\\menu\\login.xml"
+    }
+]
